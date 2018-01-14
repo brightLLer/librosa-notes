@@ -11,7 +11,7 @@
 |hop length|帧移|
 |window length|窗大小|
 |spectrogram|时频矩阵|
-|帧起点数组|onset(strength) envelope|
+|onset(strength) envelope|帧起点数组|
 
 ## 术语解释
 ### **time series**
