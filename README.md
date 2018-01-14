@@ -1,0 +1,1 @@
+My notes about librosa[official website](http://librosa.github.io/)
